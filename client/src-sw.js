@@ -32,10 +32,6 @@ registerRoute(
   new StaleWhileRevalidate({
     cacheName: 'asset-cache',
     plugins: [
-      new ExpirationPlugin({
-        maxEntries: 60,
-        maxAgeSeconds: 30 * 24 * 60 * 60, // 30 Day
-      }),
       new CacheableResponsePlugin({
         statuses: [0, 200],
       }),
