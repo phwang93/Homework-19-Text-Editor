@@ -45,7 +45,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 ## Deployed URL for the Application 
 
-Heroku for the application: [Heroku](http://jate-app-ph.herokuapp.com).
+Heroku for the application: [Heroku](https://jate-app-ph.herokuapp.com).
 ## Table of Contents
 
 - [Homework-19-Text-Editor](#homework-19-text-editor)
@@ -88,4 +88,4 @@ If you have any questions, please contact me at:
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
 * GitHub: [phwang93](https://github.com/phwang93).
 * Repo: [Homework-19-Text-Editor](https://github.com/phwang93/Homework-19-Text-Editor).
-* Heroku: [JATE App](http://jate-app-ph.herokuapp.com).
+* Heroku: [JATE App](https://jate-app-ph.herokuapp.com).
